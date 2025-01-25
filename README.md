@@ -2,4 +2,4 @@
 Front-end course by Hillel
 Homework & assignments
 
-## Added external styles & css reset
+## Added external styles & css normalization
